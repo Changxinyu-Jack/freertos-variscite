@@ -83,6 +83,8 @@ include(device_MIMX8QM6_startup_MIMX8QM6_cm4_core0)
 
 include(driver_lpuart_MIMX8QM6_cm4_core0)
 
+include(driver_flexcan_MIMX8QM6_cm4_core0)
+
 include(driver_igpio_MIMX8QM6_cm4_core0)
 
 include(driver_scfw_api_MIMX8QM6_cm4_core0)
